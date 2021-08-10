@@ -2,7 +2,7 @@
 - 👀 I’m interested in pro
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ? go to my website:sovdo.alibaba.com
+- 📫 How to reach me ? go to my website:sovdo.en.alibaba.com
 
 <!---
 sovdofashion/sovdofashion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
